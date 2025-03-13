@@ -1,0 +1,5 @@
+1> Faux
+2> Vrai
+3> Vrai
+4> Faux
+5> Faux
